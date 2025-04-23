@@ -19,7 +19,7 @@ tracing = "0.1.40"
 
 [dev-dependencies]
 anyhow = "1.0.86"
-tokio = { version = "1.38.0", features = ["macros"] }
+tokio = { version = "1.43.1", features = ["macros"] }
 textwrap = { version = "0.16.1"}
 term_size = { version = "0.3.2"}
 testcontainers = "0.23.1"
